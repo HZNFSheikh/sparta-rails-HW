@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  time: 2018-05-17 02:22:31
+  trainer: one
+  user: one
+
+two:
+  name: MyString
+  time: 2018-05-17 02:22:31
+  trainer: two
+  user: two
